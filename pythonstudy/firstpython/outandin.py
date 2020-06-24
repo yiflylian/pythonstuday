@@ -1,0 +1,5 @@
+print("输入和输出")
+print('The Quick brown','jumps over','the lazy dog')
+print("1024 * 768 =",1024 * 768)
+# name =input("请输入name")
+# print('你好，',name)

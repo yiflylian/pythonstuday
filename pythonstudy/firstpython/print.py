@@ -1,0 +1,1 @@
+print('LOVE YOU ZQQ')
